@@ -10,5 +10,10 @@ Example Output:
 uid=0(root) gid=0(root) groups=0(root)<br>
 &lt;/p&gt;
 
+<code>
+<h1>Error - Perl execution failed</h1>
+<p>Your password has expired, and a new one must be chosen.
+uid=0(root) gid=0(root) groups=0(root)
+</p>
 
-  
+</code>
