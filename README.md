@@ -1,5 +1,7 @@
 # WebMin-1.890-Unauthenticated-RCE
 
+Webmin 1.890 is vulnerable to RCE if “user password change” option to be enabled.<br>
+
 #USAGE: python3 exploit.py [TARGET IP] [COMMAND]
 <br>
 #Example Output:<br>
