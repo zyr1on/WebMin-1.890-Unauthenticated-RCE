@@ -5,7 +5,7 @@ Webmin 1.890 is vulnerable to RCE if “user password change” option to be ena
 ```bash
 $ python3 exploit.py [TARGET IP] [COMMAND]
 #EXAMPLE
-$ python3 exploit.py 127.0.0.1 whoami
+$ python3 exploit.py 10.10.10.1 whoami
 
 ```
 ```bash
