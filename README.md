@@ -1,4 +1,4 @@
-# WebMin-1.890-Unauthenticated-RCE
+# WebMin-1.8.9.0-Unauthenticated-RCE
 
 Webmin 1.890 is vulnerable to RCE if “user password change” option to be enabled.<br>
 # USAGE:
